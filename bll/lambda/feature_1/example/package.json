@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "fs": "0.0.1-security",
-    "xml-crypto": "^1.5.3",
+    "xml-crypto": "^2.0.0",
     "xmldom": "^0.3.0"
   }
 }
